@@ -1,0 +1,4 @@
+INFO Application started
+INFO Database connected
+WARNING High memory usage detected
+ERROR Database connection timeout
